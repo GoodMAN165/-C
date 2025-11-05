@@ -1,0 +1,7 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Академия\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Академия\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(20,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Академия\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(33,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Академия\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(70,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Академия\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(55,1): warning C4715: NOD: значение возвращается не при всех путях выполнения
+  ConsoleApplication7.vcxproj -> C:\Users\Академия\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
