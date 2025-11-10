@@ -86,9 +86,9 @@ int countDigits(int n) {
     return 1 + countDigits(n / 10);
 }
 
-//ТЕСТИРОВАНИЕ
-
 int main() {
+    setlocale(LC_ALL, "RU");
+
     cout << "=== ЗАДАНИЕ 1 ===" << endl;
 
     // Тест НОД
